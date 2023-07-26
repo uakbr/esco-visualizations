@@ -6,9 +6,9 @@
                 1000,
             50
             ],
-            "tensorPath": "https://raw.githubusercontent.com/duarteocarmo/esco-visualizations/master/embeddings.tsv",
-            "metadataPath": "https://raw.githubusercontent.com/duarteocarmo/esco-visualizations/master/embeddings_metadata.tsv",
-            "bookmarksPath": "https://raw.githubusercontent.com/duarteocarmo/esco-visualizations/master/bookmark.txt"
+            "tensorPath": "https://raw.githubusercontent.com/uakbr/esco-visualizations/master/embeddings.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/uakbr/esco-visualizations/master/embeddings_metadata.tsv",
+            "bookmarksPath": "https://raw.githubusercontent.com/uakbr/esco-visualizations/master/bookmark.txt"
 
         }
     ]
